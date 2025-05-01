@@ -1,4 +1,3 @@
-# social-bias-eval-in-llms
 # Evaluating and Debiasing LLMs on Social Bias Benchmarks
 
 This repository contains our research and implementation for evaluating and mitigating social bias in large language models (LLMs) using the [BBQ (Bias Benchmark for QA)](https://github.com/nyu-mll/BBQ) dataset. The project benchmarks multiple LLMs, fine-tunes Falcon-7B using LoRA, and introduces an adversarial learning setup to improve fairness without degrading accuracy.
