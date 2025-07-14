@@ -4,7 +4,7 @@ from openai import OpenAI
 from tqdm import tqdm
 import time
 
-os.environ["OPENAI_API_KEY"] = "your-api-key-here"
+os.environ["OPENAI_API_KEY"] = "key"
 client = OpenAI()
 
 def build_system_prompt():
