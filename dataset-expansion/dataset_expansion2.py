@@ -104,6 +104,6 @@ def process_file(input_file, output_file):
 
 if __name__ == "__main__":
     process_file(
-        "/Users/mohit/Downloads/aaai work/data/batch1.jsonl",
-        "/Users/mohit/Downloads/aaai work/social-bias-eval-in-llms/newdataset2/Race_ethnicity1.jsonl"
+        "/Users/mohit/Downloads/aaai work/data/batch2.jsonl",
+        "/Users/mohit/Downloads/aaai work/social-bias-eval-in-llms/newdataset2/Race_ethnicity2.jsonl"
     )
